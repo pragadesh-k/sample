@@ -1,2 +1,1 @@
-File two.
-second change.
+This file contains the documentation of the application
