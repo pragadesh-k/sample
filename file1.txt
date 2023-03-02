@@ -1,2 +1,1 @@
-File one.
-second change.
+This file one contains an overall description about the repository.
